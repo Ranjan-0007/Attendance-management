@@ -16,7 +16,6 @@ function App() {
       <h1>Face Recognition Attendance System</h1>
       <p><strong>Backend Status:</strong></p>
       <p>{backendStatus}</p>
-      <CameraCapture />
     </div>
   );
 }
